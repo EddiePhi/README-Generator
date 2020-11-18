@@ -61,6 +61,7 @@ const questions = [
 // function to write README file (Originally had second data argument)
 function writeToFile(fileName) {
     inquirer.prompt(questions).then((data) => {
+        //https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
         const readME1 = `[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ${generateMarkdown(data)} \n\n`;
         const readME2 = `[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) \n\n ${generateMarkdown(data)}`;
         const readME3 = `[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)  \n\n ${generateMarkdown(data)}`;
