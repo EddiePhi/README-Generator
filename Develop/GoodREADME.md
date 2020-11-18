@@ -5,7 +5,7 @@
 
   <a name="description"></a>
   ## Description: 
-  An app that creates good README's
+  A program that creates README's
   
   <a name="toc"></a>
   ## Table of Contents:
@@ -21,18 +21,18 @@
 
   <a name="installation"></a>
   ## Installation: 
-  Enter steps here
+  Install steps go here
   
   <a name="usage"></a>
   ## Usage: 
-  Create good README's
+  To create prefilled README's
   
   <a name="license"></a>
   ## License: MIT
   
   <a name="contributing"></a>
   ## Contributing: 
-  N/A
+  NPM: Inquirer, https://github.com/SBoudrias
   
   <a name="tests"></a>
   ## Tests: 
