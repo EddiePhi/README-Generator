@@ -5,7 +5,7 @@
 
   <a name="description"></a>
   ## Description: 
-  Description
+  An app that creates good README's
   
   <a name="toc"></a>
   ## Table of Contents:
@@ -21,19 +21,18 @@
 
   <a name="installation"></a>
   ## Installation: 
-  Steps
+  Enter steps here
   
   <a name="usage"></a>
   ## Usage: 
   Create good README's
   
   <a name="license"></a>
-  ## License: 
-  MIT
+  ## License: MIT
   
   <a name="contributing"></a>
   ## Contributing: 
-  Me
+  N/A
   
   <a name="tests"></a>
   ## Tests: 
