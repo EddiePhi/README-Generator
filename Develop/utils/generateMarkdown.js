@@ -11,26 +11,18 @@ function generateMarkdown(data) {
   
   <a name="toc"></a>
   ## Table of Contents: ${data.toc}
-  ##### 1. [Application name](#title) 
-  
-  ##### 2. [Description](#description) 
-  
+  ##### 1. [Application name](#title)
+  ##### 2. [Description](#description)
   ##### 3. [Table Of Contents](#toc)
-  
-  ##### 4. [Installation](#installation) 
-  
+  ##### 4. [Installation](#installation)
   ##### 5. [Usage](#usage)
-  
-  ##### 6. [License](#license) 
-  
-  ##### 7. [Contributing](#contributing) 
-  
-  ##### 8. [Tests](#tests) 
-  
-  ##### 9. [Questions](#questions) 
+  ##### 6. [License](#license)
+  ##### 7. [Contributing](#contributing)
+  ##### 8. [Tests](#tests)
+  ##### 9. [Questions](#questions)
 
   <a name="installation"></a>
-  ## Installation: ${data.installation} 
+  ## Installation: ${data.installation}
   
   <a name="usage"></a>
   ## Usage: ${data.usage}
@@ -45,7 +37,8 @@ function generateMarkdown(data) {
   ## Tests: ${data.tests}
   
   <a name="questions"></a>
-  ## Questions: Please reach out to me at https://github.com/${data.questions1} or send me an email at ${data.questions2}.`;
+  ## Questions:
+  Please reach out to me at https://github.com/${data.questions1} or send me an email at ${data.questions2}.`;
 }
 
 module.exports = generateMarkdown;

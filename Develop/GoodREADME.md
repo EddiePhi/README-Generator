@@ -8,26 +8,18 @@
   
   <a name="toc"></a>
   ## Table of Contents: 
-  ##### 1. [Application name](#title) 
-  
-  ##### 2. [Description](#description) 
-  
+  ##### 1. [Application name](#title)
+  ##### 2. [Description](#description)
   ##### 3. [Table Of Contents](#toc)
-  
-  ##### 4. [Installation](#installation) 
-  
+  ##### 4. [Installation](#installation)
   ##### 5. [Usage](#usage)
-  
-  ##### 6. [License](#license) 
-  
-  ##### 7. [Contributing](#contributing) 
-  
-  ##### 8. [Tests](#tests) 
-  
-  ##### 9. [Questions](#questions) 
+  ##### 6. [License](#license)
+  ##### 7. [Contributing](#contributing)
+  ##### 8. [Tests](#tests)
+  ##### 9. [Questions](#questions)
 
   <a name="installation"></a>
-  ## Installation:  
+  ## Installation: 
   
   <a name="usage"></a>
   ## Usage: 
@@ -42,5 +34,6 @@
   ## Tests: 
   
   <a name="questions"></a>
-  ## Questions: Please reach out to me at https://github.com/ or send me an email at . 
+  ## Questions:
+  Please reach out to me at https://github.com/ or send me an email at . 
 
