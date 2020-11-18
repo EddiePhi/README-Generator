@@ -22,11 +22,6 @@ const questions = [
     },
     {
         type: "input",
-        message: "Table of Contents: ",
-        name: "toc"
-    },
-    {
-        type: "input",
         message: "Installation: ",
         name: "installation"
     },

@@ -4,13 +4,14 @@ function generateMarkdown(data) {
   return `
 
   <a name="title"></a>
-  # Application Name: ${data.title}
+  # ${data.title}
 
   <a name="description"></a>
-  ## Description: ${data.description}
+  ## Description: 
+  ${data.description}
   
   <a name="toc"></a>
-  ## Table of Contents: ${data.toc}
+  ## Table of Contents:
   ##### 1. [Application name](#title)
   ##### 2. [Description](#description)
   ##### 3. [Table Of Contents](#toc)
@@ -22,19 +23,24 @@ function generateMarkdown(data) {
   ##### 9. [Questions](#questions)
 
   <a name="installation"></a>
-  ## Installation: ${data.installation}
+  ## Installation: 
+  ${data.installation}
   
   <a name="usage"></a>
-  ## Usage: ${data.usage}
+  ## Usage: 
+  ${data.usage}
   
   <a name="license"></a>
-  ## License: ${data.license}
+  ## License: 
+  ${data.license}
   
   <a name="contributing"></a>
-  ## Contributing: ${data.contributing}
+  ## Contributing: 
+  ${data.contributing}
   
   <a name="tests"></a>
-  ## Tests: ${data.tests}
+  ## Tests: 
+  ${data.tests}
   
   <a name="questions"></a>
   ## Questions:
