@@ -23,7 +23,7 @@ const questions = [
     {
         type: "input",
         message: "Table of Contents: ",
-        name: "tableOfContents"
+        name: "toc"
     },
     {
         type: "input",
