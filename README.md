@@ -7,6 +7,8 @@
   ## Description: 
   I created a program that creates a base template for README files by writing in prefilled sections to a new README.md file. Users can input details for each section, which will also populate into the README.md file.
 
+  Here is a link to a video showing how to invoke the program in your command prompt/terminal: https://drive.google.com/file/d/153AFo7P5HPD51Bnxn5HRHlmpI45G9BH_/view 
+
   
   <a name="toc"></a>
   ## Table of Contents:
