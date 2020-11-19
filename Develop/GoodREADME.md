@@ -1,11 +1,11 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) 
 
   <a name="title"></a>
-  # README Generator
+  # README Generator (Sample)
 
   <a name="description"></a>
   ## Description: 
-  A program that creates README's
+  A program that creates README's.
   
   <a name="toc"></a>
   ## Table of Contents:
@@ -21,7 +21,7 @@
 
   <a name="installation"></a>
   ## Installation: 
-  Install steps go here
+  Install steps go here.
   
   <a name="usage"></a>
   ## Usage: 
@@ -36,9 +36,8 @@
   
   <a name="tests"></a>
   ## Tests: 
-  N/A
+  Test details go here
   
   <a name="questions"></a>
   ## Questions:
   Please reach out to me at https://github.com/EddiePhi or send me an email at ephimansone@gmail.com. 
-
